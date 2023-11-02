@@ -1,5 +1,5 @@
-# Hello, my name is Tevin h3<Like Kevin, with a T>h3 👋
-![](https://media.giphy.com/media/l4EpeYjfRJy6CHwSA/giphy.gif)
+# Hello, my name is Tevin
+### *Like Kevin, with a T* 👋
 
 - 🔭 I’m currently working on <a href="https://apps.apple.com/us/app/magic-city-showcase/id6448687610?platform=iphone">The Magic City Showcase</a>
 - 💡 My 2 favorite quotes:
