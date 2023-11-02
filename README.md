@@ -1,12 +1,12 @@
-# Hello, my name is Tevin (Like Kevin, with a "T") 👋
+# Hello, my name is Tevin h3<Like Kevin, with a T>h3 👋
 ![](https://media.giphy.com/media/l4EpeYjfRJy6CHwSA/giphy.gif)
 
 - 🔭 I’m currently working on <a href="https://apps.apple.com/us/app/magic-city-showcase/id6448687610?platform=iphone">The Magic City Showcase</a>
 - 💡 My 2 favorite quotes:
 
-> "The difference between a master and a novice, is that a master has failed more times than the novice has tried." - Koro - Sensei
+> "The difference between a master and a novice is that a master has failed more times than the novice has tried." - Koro-Sensei
 
-> "If the primary aim of the captain was to preserve the ship, then it would never set sail." - Thomas Aquinas
+> "If the primary aim of the captain were to preserve the ship, then it would never set sail." - Thomas Aquinas
 
 ## My GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=ambasstj&count_private=true&include_all_commits=true&show_icons=true&hide_title=true)
